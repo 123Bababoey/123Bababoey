@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Math%20God%20👋&fontSize=40&fontAlign=center&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Chen%20Zhi%20Yong%20👋&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
 <!-- Intro -->
 <h2 align="center">🌐 Networking & Security Student | 💻 Web Developer | 📚 AUSMAT Graduate</h2>
