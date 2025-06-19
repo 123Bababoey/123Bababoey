@@ -7,7 +7,7 @@
 <p align="center">
   🎓 Year 1 Semester 3 @ <strong>Sunway University</strong>  
   <br>🌱 Exploring Cybersecurity, Flexbox Layouts, and JS Interactivity  
-  <br>⚡ Fun Fact: I love building late at night with music 🎧
+  <br>⚡ Fun Fact: I love doing stuff while listening to music 🎧
 </p>
 
 ---
@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=123Bababoey&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Bababoey&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
