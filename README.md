@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I am Chen Zhi Yong
+🌱 I’m currently a Year 1 student in Computer Networking and Security 
+📫 Reach me at: 23041742@imail.sunway.edu.my
+⚡ Fun fact: I enjoy multitasking
 
-<!--
-**123Bababoey/123Bababoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Skills
+- HTML | CSS | JavaScript
+- Python | Java
+- Networking Basics | Cybersecurity
 
-Here are some ideas to get you started:
+## 📂 My Projects
+- [My Portfolio Website](https://yourwebsite.com)
+- [Flexbox Layout Demo](https://github.com/yourusername/flexbox-demo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Instagram](https://instagram.com/yourprofile)
+
